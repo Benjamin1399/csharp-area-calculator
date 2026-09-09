@@ -46,6 +46,7 @@
     <Compile Include="Interfaces\IAreaCalculator.cs" />
     <Compile Include="Models\RectangleModel.cs" />
     <Compile Include="Models\SquareModel.cs" />
+    <Compile Include="Models\TriangleModel.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
