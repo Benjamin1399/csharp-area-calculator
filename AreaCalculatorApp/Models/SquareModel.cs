@@ -4,12 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AreaCalculatorApp
+namespace AreaCalculatorApp.Models
 {
-    partial class Program
+    public class SquareModel
     {
-        static void Main(string[] args)
-        {
-        }
     }
 }
