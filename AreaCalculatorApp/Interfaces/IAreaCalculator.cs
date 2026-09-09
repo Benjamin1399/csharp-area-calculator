@@ -1,10 +1,7 @@
 ﻿namespace AreaCalculatorApp
 {
-    partial class Program
+    public interface IAreaCalculator
     {
-        public interface IAreaCalculator
-        {
-            double CalculateArea();
-        }
+        double CalculateArea();
     }
 }
